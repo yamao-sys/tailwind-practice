@@ -18,5 +18,9 @@ tailwindのキャッチアップ用リポジトリ
 ### Tailwindの全ユーティリティがまとまっているチートシート
 https://nerdcave.com/tailwind-cheat-sheet
 
+### TailwindによるレイアウトTips
+- input
+  - https://flowbite.com/docs/forms/input-field/
+
 ## 参考
 - https://zenn.dev/chris_d_k/articles/25d8618ade9c09
